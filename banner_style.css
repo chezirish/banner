@@ -1,0 +1,136 @@
+.banner_wrapper {
+    width: 100%;
+    background: #ebf3f5;
+}
+
+.clear:after {
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.top_line {
+    height: 30px;
+    background: red;
+    color: #fff;
+    font-weight:bold;
+}
+
+.top_line p {
+    line-height: 0;
+}
+
+.top_line div {
+    float: left;
+}
+
+.top_text {
+    margin-left: 25%;
+}
+
+.top_logo img {
+    width: 200px;    
+}
+
+.top_line .banner_close {
+    float: right;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.banner_bottom {
+    height: 130px;
+}
+
+.items {
+    float: left;
+}
+
+.market_item {
+    width: 155px;
+    height: 115px;
+    background: #fff;
+    margin-right: 12px;
+    float: left;
+    text-align: center;
+}
+
+.first_item {
+    width: 70px;
+    height: 70px;
+}
+
+.second_item {
+    width: 80px;
+    height: 60px;
+}
+
+.third_item {
+    width: 74px;
+    height: 66px;
+}
+
+.fourth_item {
+    width: 71px;
+    height: 71px;
+}
+
+.fifth_item {
+    width: 82px;
+    height: 62px;
+}
+
+.banner_bottom .market_item_text a {
+    color: #FF0000;
+}
+
+.contact {
+    float: right;
+    background: #fff;
+    margin-right: 20px;
+    padding: 9px;
+}
+
+.contact_wrapper {
+    text-align: right;
+}
+
+.contact_text {
+    color: #FF0000;
+    font-weight: bold;
+    margin: 0;
+}
+
+.contact_phone {
+    color: #3E505A;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 10px 0 10px 0;
+}
+
+.contact_phone img {
+    width: 23px;
+    height: 23px;
+    margin-right: 5px;
+}
+
+.contact_link img {
+    width: 22px;
+    height: 24px;
+    margin-right: 5px;
+}
+
+.contact_link a {
+    color: #FF0000;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.contact_link {
+    margin: 0;
+}
+
+.pos {
+    position: relative;
+    bottom: 7px;
+}
